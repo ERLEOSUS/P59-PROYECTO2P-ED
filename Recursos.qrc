@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/barra-grafica.png</file>
+        <file>Recursos/boton-agregar.png</file>
+        <file>Recursos/loginmanager_10029.png</file>
+        <file>Recursos/lista-de-verificacion.png</file>
+        <file>Recursos/verificar.png</file>
+    </qresource>
+</RCC>
